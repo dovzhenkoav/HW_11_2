@@ -1,5 +1,5 @@
 def str_upper(string: str) -> str:
-    """Not so good docstring"""
+    """Return a copy of the string converted to uppercase."""
     return string.upper()
 
 def str_capitalize(string: str) -> str:
